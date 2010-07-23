@@ -1,5 +1,5 @@
 COMMENT =		Utilities for Starkast
-V =			0.1.3
+V =			0.1.4
 DISTNAME =		Starkast-Utilities-${V}
 CATEGORIES =		utilities
 MAINTAINER =		jage@starkast.net
@@ -12,7 +12,7 @@ PERMIT_DISTFILES_FTP =	Yes
 
 MASTER_SITES =		http://github.com/Starkast/Utilities/tarball/
 # Wierd filename, Github ...
-DISTFILES =		0.1.3
+DISTFILES =		${V}
 
 # Just scripts
 NO_BUILD =		Yes
