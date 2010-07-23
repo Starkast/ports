@@ -1,5 +1,5 @@
 COMMENT =		Utilities for Starkast
-V =			0.1.5
+V =			0.1.8
 DISTNAME =		Starkast-Utilities-${V}
 CATEGORIES =		utilities
 MAINTAINER =		jage@starkast.net
@@ -25,7 +25,9 @@ do-install:
 	${INSTALL_SCRIPT} ${WRKSRC}/sbin/* ${PREFIX}/sbin/
 	${INSTALL_SCRIPT} ${WRKSRC}/libexec/* ${PREFIX}/libexec/
 	${INSTALL_DATA} ${WRKSRC}/lib/* ${PREFIX}/lib/
-	${INSTALL_DATA_DIR} ${WRKSRC}/libdata/* ${PREFIX}/libdata/
+	${INSTALL_DATA_DIR} ${PREFIX}/share/Starkast-Utilities/
+	${INSTALL_DATA} ${WRKSRC}/share/Starkast-Utilities/* \
+		${PREFIX}/share/Starkast-Utilities/
 
 
 .include <bsd.port.mk>

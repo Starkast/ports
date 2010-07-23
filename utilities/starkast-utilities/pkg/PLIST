@@ -25,3 +25,10 @@ sbin/rsnap.sh
 sbin/spawn-php-fcgi-no-chroot.sh
 sbin/spawn-php-fcgi.sh
 sbin/sync.sh
+share/Starkast-Utilities/
+share/Starkast-Utilities/ftp_starkast_net.erb
+share/Starkast-Utilities/new_starkast_net.erb
+share/Starkast-Utilities/nginx.yml
+share/Starkast-Utilities/php.ini.erb
+share/Starkast-Utilities/sites.erb
+share/Starkast-Utilities/starkast_net.erb
