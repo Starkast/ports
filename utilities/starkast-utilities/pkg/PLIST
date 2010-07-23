@@ -22,5 +22,6 @@ sbin/mysql-backup.sh
 sbin/mysql_admin.rb
 sbin/rmuser.rb
 sbin/rsnap.sh
+sbin/spawn-php-fcgi-no-chroot.sh
 sbin/spawn-php-fcgi.sh
 sbin/sync.sh
