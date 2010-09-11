@@ -1,5 +1,5 @@
 COMMENT =		Utilities for Starkast
-V =			0.1.9
+V =			0.1.10
 DISTNAME =		Starkast-Utilities-${V}
 CATEGORIES =		utilities
 MAINTAINER =		jage@starkast.net

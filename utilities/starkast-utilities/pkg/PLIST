@@ -29,6 +29,7 @@ share/Starkast-Utilities/
 share/Starkast-Utilities/ftp_starkast_net.erb
 share/Starkast-Utilities/new_starkast_net.erb
 share/Starkast-Utilities/nginx.yml
+share/Starkast-Utilities/nginx_user_template.erb
 share/Starkast-Utilities/php.ini.erb
 share/Starkast-Utilities/sites.erb
 share/Starkast-Utilities/starkast_net.erb
