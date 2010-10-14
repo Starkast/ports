@@ -25,6 +25,7 @@ sbin/rmuser.rb
 sbin/rsnap.sh
 sbin/spawn-php-fcgi-no-chroot.sh
 sbin/spawn-php-fcgi.sh
+sbin/susers
 sbin/sync.sh
 share/Starkast-Utilities/
 share/Starkast-Utilities/ftp_starkast_net.erb
