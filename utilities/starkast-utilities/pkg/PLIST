@@ -3,6 +3,7 @@ bin/my_tcp_ports
 bin/urestore
 bin/webctl
 lib/phoo.rb
+libexec/check_mysql_replication.sh
 libexec/nginx_generator.rb
 libexec/quota_monitor.rb
 libexec/quota_monitor_root.rb
