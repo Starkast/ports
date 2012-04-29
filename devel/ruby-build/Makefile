@@ -1,5 +1,5 @@
 COMMENT =		Compile and install Ruby
-V =			v20120423
+V =			20120423
 DISTNAME =		ruby-build-${V}
 CATEGORIES =		devel
 MAINTAINER =		patrik@starkast.net
@@ -12,7 +12,7 @@ PERMIT_DISTFILES_FTP =	Yes
 
 MASTER_SITES =		http://github.com/sstephenson/ruby-build/tarball/
 # Wierd filename, Github ...
-DISTFILES =		${V}
+DISTFILES =		v${V}
 
 # Just scripts
 NO_BUILD =		Yes
