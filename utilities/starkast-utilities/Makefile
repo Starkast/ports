@@ -10,7 +10,7 @@ PERMIT_PACKAGE_FTP =	Yes
 PERMIT_DISTFILES_CDROM =Yes
 PERMIT_DISTFILES_FTP =	Yes
 
-MASTER_SITES =		http://github.com/Starkast/Utilities/tarball/
+MASTER_SITES =		http://github.com/Starkast/Utilities/archive/
 # Wierd filename, Github ...
 DISTFILES =		${V}
 
